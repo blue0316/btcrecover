@@ -1,0 +1,1 @@
+python btcrecover.py --wallet wallet.dat --performance --no-dupchecks --enable-gpu --global-ws 4096 --local-ws 256
